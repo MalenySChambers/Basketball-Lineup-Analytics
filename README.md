@@ -68,3 +68,33 @@ This project currently represents the **Creative Phase** of the innovation proce
 The initial objective is to identify an organizational decision-making problem and develop an analytics idea that could potentially address that problem. The idea has not yet been fully prototyped, tested, or integrated into the organization's workflow.
 
 The project can progress through the innovation process by using GitHub to document the idea, create experimental versions, collect feedback, and determine whether the analytics solution should eventually be incorporated into the organization's decision-making process.
+
+## Prototype Enhancement
+
+The prototype enhancement is to add game-context filtering to the lineup decision-support tool.
+
+The original concept evaluates lineup performance primarily using overall historical statistics. The prototype would allow decision makers to filter results based on specific game situations.
+
+Possible filters would include:
+
+- Close games
+- First half versus second half
+- Home versus away games
+- Strong versus weak opponents
+- Offensive versus defensive situations
+- Different score differentials
+- Different periods of the game
+
+### What Is Being Changed?
+
+The original analytics concept provides general lineup-performance information. The prototype adds contextual filters that allow decision makers to evaluate whether a lineup performs effectively under specific circumstances.
+
+For example, instead of simply identifying a lineup with a high overall net rating, the tool could identify lineups that perform particularly well during close games in the fourth quarter.
+
+### Why Could This Improve Decision-Making?
+
+Game context can affect the usefulness of historical performance information. A lineup that performs well overall may not necessarily be the best option in a specific situation.
+
+Adding contextual filters would allow coaches to ask more targeted questions and receive information that is more closely related to the decision they are currently making.
+
+This enhancement also makes the tool more flexible because different decision makers could use the same analytics system to investigate different situations.
